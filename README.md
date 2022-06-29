@@ -1,5 +1,7 @@
 # shopping-cart-react-typescript
 
+## see the project [here](https://fantastic-toffee-ee8636.netlify.app/store).
+
 ![Demo](https://user-images.githubusercontent.com/46050946/176482967-35f552f6-d310-46a4-86b3-cbba66aadce5.png)
 
 ## Features:
